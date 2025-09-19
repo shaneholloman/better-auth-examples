@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/better-sqlite3": "^7.6.13",
     "@vercel/mcp-adapter": "^0.11.2",
-    "better-auth": "workspace:^",
+    "better-auth": "latest",
     "better-sqlite3": "^11.10.0",
     "next": "15.4.6",
     "react": "^19.1.1",
